@@ -1,6 +1,6 @@
 body {
     background-color: #080830;
-    background-image: url('./assets/images/1.png');
+    background-image: url('../images/1.png');
     background-size: 100% auto;
     height: 6770px;
     background-repeat: no-repeat;
